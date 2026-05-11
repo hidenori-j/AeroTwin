@@ -10,6 +10,7 @@
 |------|------|
 | [事業計画書（日本語）](docs/business/BUSINESS_PLAN.ja.md) | プロジェクト全体の事業計画・ロードマップ・収益モデル |
 | [詳細アクションリスト](docs/business/ACTION_LIST.ja.md) | 初期3ヶ月の開発・外装・営業タスクを週次で管理する実行チェックリスト |
+| [購入品リスト](docs/business/PURCHASE_LIST.ja.md) | プロトタイプ1号機の必須部品・推奨部材・工具・購入順序 |
 
 ## プロジェクト概要
 

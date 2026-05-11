@@ -31,6 +31,8 @@
 
 ### 0.2 購入・調達
 
+購入対象の詳細仕様と予算は、[AeroTwin 購入品リスト](PURCHASE_LIST.ja.md) を参照してください。
+
 - [ ] ROS対応スマートカーキットを発注する
 - [ ] Raspberry Pi 5（8GB）一式を発注する
 - [ ] microSDカードまたはSSDを用意する
